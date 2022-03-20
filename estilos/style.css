@@ -629,7 +629,7 @@ body{
         display: none;
     }
     .second-section{
-        padding-left: 60%;
+        padding-left: 50%;
     }
     .profile-picture{
         display: none;
@@ -651,7 +651,7 @@ body{
         margin-top: 10px;
     }
     .proposal-container{
-        height: 880px;
+        height: 1000px;
     }
     .btn-proposal{
         display: none;
